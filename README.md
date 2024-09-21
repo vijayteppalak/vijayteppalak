@@ -1,7 +1,9 @@
 # Hi, I'm T Vijay Kumar! 👋
 
-### 🧑‍💻 QA Engineer | 4+ Years Experience  
-**Automation & Manual Testing | Selenium | Postman | Java | Jira | CI/CD**
+### 🧑‍💻 QA Engineer 
+**A passionate QA Engineer from India with over 4 years of experience in ensuring software quality and reliability. I focus on delivering high-performance applications by meticulously planning, executing, and analyzing test cases to ensure seamless functionality and a bug-free user experience. With a strong attention to detail and a proactive approach to identifying potential issues, I thrive on improving software quality and enhancing user satisfaction.
+
+**
 
 ---
 
